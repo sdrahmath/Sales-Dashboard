@@ -12,10 +12,10 @@ This interactive dashboard provides valuable insights and accurate sales forecas
 
 - **Actionable Insights and Recommendations**: The ultimate goal of this dashboard is to provide valuable insights and actionable information that can drive strategic decision-making. By analyzing sales data and trends, the Power BI dashboard offers recommendations for enhancing growth, improving efficiency, and increasing customer satisfaction.
 
-## Images Of the Dashboards
+## Images Of the Dashboard
 
-![Image 1](https://example.com/image.jpg)
-![Image 2](https://example.com/image.jpg)
+![Image 1](https://github.com/sdrahmath/Sales-Dashboard/blob/main/IMages/Image1.png)
+![Image 2](https://github.com/sdrahmath/Sales-Dashboard/blob/main/IMages/Image2.png)
 
 
 ## Getting Started
